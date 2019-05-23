@@ -1,4 +1,18 @@
 body{
-   
+    background-color: #E8E8E8;
     margin: 80px;
+}
+header{
+    margin-right: 320px;
+    margin-left: 320px;
+
+    background-color: black;
+}
+.row1{
+    background-color: #00A3C4;
+    color: white;
+}
+.col-12 a{
+    background-color: white;
+    
 }
